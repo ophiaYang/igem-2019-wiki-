@@ -1,0 +1,103 @@
+{{DUT_China_B/bootstrap.css}}
+{{Template:DUT_China_B/test_style.css}}
+
+<html lang="en">
+
+   <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Scripts-->
+        <script src="/Template:DUT_China_B/jquery.js?action=raw&amp;ctype=text/javascript"></script>
+        <script src="/Template:DUT_China_B/popper.js?action=raw&amp;ctype=text/javascript"></script>
+        <script src="/Template:DUT_China_B/bootstrap.min.js?action=raw&amp;ctype=text/javascript"></script>
+        <script src="/Template:DUT_China_B/JSplugins?action=raw&amp;ctype=text/javascript"></script>
+        <script src="/Template:DUT_China_B/JScustom?action=raw&amp;ctype=text/javascript"></script> 
+
+    </head>
+
+
+
+<body>
+
+        <!-- Header-->
+        <header class="header sticky-top header-transparent">
+            <div class="container-fluid">
+                <!-- Brand-->
+                <div id="Home" class="inner-header"><a class="inner-brand" href="https://2019.igem.org/Team:DUT_China_B">BALDR</a></div>
+                <!-- Navigation-->
+                <div class="inner-navigation collapse">
+                    <div class="inner-nav">
+                        <ul>
+
+                            <li id="Project" class="menu-item-has-children"><a href="https://2019.igem.org/Team:DUT_China_B/Description"><span class="menu-item-span">Project</span></a>
+                                <ul class="sub-menu">
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Description">Inspiration</a></li>
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Description">Description</a></li>
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Design">Design</a></li>
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Demonstrate">Demonstrate</a></li>
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Expectation">Expectation</a></li>
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Expectation">Following Design</a></li>
+                                </ul>
+                            </li>
+
+                            <li id="Wet_lab" class="menu-item-has-children"><a href="https://2019.igem.org/Team:DUT_China_B/Experiments"><span class="menu-item-span" >Wet_lab</span></a>
+                                <ul class="sub-menu" >
+
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Experiments">Experiments</a></li>
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Results">Results</a></li>
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Protocols">Protocols</a></li>
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Notebook">Notebook</a></li>
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Safety">Safety</a></li>
+
+                                </ul>
+                            </li>  
+                            <li id="Parts" class="menu-item-has-children"><a href="https://2019.igem.org/Team:DUT_China_B/Parts"><span class="menu-item-span" >Parts</span></a>
+                                <ul class="sub-menu">
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Parts">Parts Overview</a></li>
+                                </ul>
+                            </li>
+                            <li id="Model" class="menu-item-has-children"><a href="https://2019.igem.org/Team:DUT_China_B/Model"><span class="menu-item-span" >Model</span></a>
+                               <!--  <ul class="sub-menu">
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Parts">Parts Overview</a></li>
+                                </ul> -->
+                            </li>
+                            
+                            <li id="Outreach" class="menu-item-has-children"><a href="https://2019.igem.org/Team:DUT_China_B/Human_Practices"><span class="menu-item-span" >Outreach</span></a>
+                                <ul class="sub-menu">
+                                     <li><a href="https://2019.igem.org/Team:DUT_China_B/Human_Practices">Human_Practices</a></li>
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Public_Engagement">Public_Engagement</a></li>
+                                    
+                                    </li>      
+                                </ul>
+                            </li>
+
+                            <li id="Team" class="menu-item-has-children"><a href="https://2019.igem.org/Team:DUT_China_B/Team"><span class="menu-item-span" >Team</span></a>
+                                <ul class="sub-menu">
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Team">Team Member</a></li>
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Attributions">Attributions</a></li>
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Attributions">Acknowledgements</a>
+                                     <li><a href="https://2019.igem.org/Team:DUT_China_B/Collaborations">Collaborations</a></li>
+                                    </li>
+                                    
+                                </ul>
+                            </li>
+                            <li id="Awards" class="menu-item-has-children"><a href="https://2019.igem.org/Team:DUT_China_B/Medal Criteria"><span class="menu-item-span">Awards</span></a> 
+                                <ul class="sub-menu">
+                                    <li><a href="https://2019.igem.org/Team:DUT_China_B/Medal Criteria">Medal Criteria</a></li>
+                                </ul>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                <div class="extra-nav">
+                    <ul>
+                        <li><a class="off-canvas-open" href="#"><span class="menu-item-span"><i class="ti-menu"></i></span></a></li>
+                        <li class="nav-toggle"><a href="#" data-toggle="collapse" data-target=".inner-navigation"><span class="menu-item-span"><i class="ti-menu"></i></span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <!-- Header end-->
+    </body>
+</html>
